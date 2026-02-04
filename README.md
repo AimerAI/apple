@@ -1,2 +1,3 @@
-This file is for testing purposes only 
-No content here
+Github account was made , and downloading Git for the first time
+
+This repositry is only for testing purposes 
